@@ -5,6 +5,7 @@ Task-1
 
 Task-2
 ![image](https://github.com/nitinverma1925/CodSoft-Internship-/assets/147927195/41605efa-55c6-4ae4-afea-ed463396d87d)
+
 ![image](https://github.com/nitinverma1925/CodSoft-Internship-/assets/147927195/77c42e7a-5984-46bf-b457-464523665558)
 
 Task-3
