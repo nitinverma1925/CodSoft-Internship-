@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-family: "Libre Baskerville", serif;
+}
+h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+p {
+  margin: 15px 0 15px 0;
+  font-size: 18px;
+}
+header {
+  height: auto;
+  background-color: rgb(135, 86, 86);
+  padding: 10px 0;
+}
+header .container {
+  justify-content: space-between;
+  font-weight: bold;
+  display: flex;
+  margin-bottom: 5px;
+}
+body {
+  background-color: #dfdddd;
+}
+section {
+  display: flex;
+  justify-content: center;
+}
+nav {
+  display: flex;
+  justify-content: center;
+}
+nav .container ul {
+  display: flex;
+  list-style: none;
+}
+
+nav .container ul li {
+  margin: 5px 10px;
+}
+#about .container .self {
+  display: flex;
+}
+.self_img {
+  display: flex;
+  align-items: center;
+}
+
+.self_img img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+.container {
+  width: 60vw;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fefefe;
+  border-radius: 5px;
+  margin-top: 20px;
+  font-size: 20px;
+}
+ul li a {
+  text-decoration: underline;
+  display: inline-block;
+  color: rgb(174, 29, 29);
+}
+ul li a:hover {
+  color: blue;
+}
+
+#projects .container ul {
+  list-style: disc;
+  padding-left: 15px;
+}
+#contact ul li {
+  list-style: none;
+}
+footer {
+  height: 40px;
+  background-color: rgb(135, 86, 86);
+  margin-top: 10px;
+}
